@@ -1,0 +1,8 @@
+.directiva__box .directiva {
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
